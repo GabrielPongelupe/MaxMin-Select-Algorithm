@@ -35,6 +35,11 @@ Antes de rodar o projeto, certifique-se de ter o **Python 3.x** instalado em sua
    
 Se preferir, você pode modificar a entrada diretamente no código ou adaptá-lo para receber valores do usuário em tempo de execução.
 
+## Grafo do Algoritmo
+Representa a ilustração do fluxo do problema.
+
+![Grafo do Algoritmo](./images/grafo_fluxo.png)
+
 
 ## Complexidade Assintótica
 
@@ -94,6 +99,4 @@ Podemos identificar que o algorírmo Max Min Select se enquadra no primeiro caso
 
 A complexidade é O(n).
 
-## Grafo do Algoritmo
-Representa a ilustração do fluxo do problema
 
