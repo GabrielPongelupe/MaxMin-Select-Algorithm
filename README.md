@@ -99,4 +99,11 @@ Podemos identificar que o algorírmo Max Min Select se enquadra no primeiro caso
 
 A complexidade é O(n).
 
+## Conclusão
+O algoritmo **MaxMin Select** se destaca pela sua abordagem eficiente ao reduzir o número de comparações necessárias para encontrar os valores mínimo e máximo em uma sequência de números. Utilizando a estratégia de **divisão e conquista**, ele melhora o desempenho em relação ao método tradicional, que requer um maior número de operações. 
+
+A análise da complexidade assintótica demonstrou que o algoritmo opera em **O(n)**, garantindo uma execução linear mesmo para grandes conjuntos de dados. Isso reforça sua aplicabilidade em cenários onde a eficiência é um fator crítico.
+
+Além disso, a implementação em **Python** e os testes unitários desenvolvidos asseguram a confiabilidade da solução, permitindo que o código seja facilmente adaptado e expandido conforme necessário. Dessa forma, o **MaxMin Select** se apresenta como uma alternativa sólida para problemas que envolvem a busca simultânea dos extremos em uma coleção de dados.
+
 
